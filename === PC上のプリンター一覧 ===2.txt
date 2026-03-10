@@ -1,0 +1,7 @@
+パターン1 (HKLM): [PORTPROMPT:] エラー:0
+パターン2 (HKCU): [winspool,Ne04:,15,45] エラー:0
+パターン3 (リダイレクト): [TS002] エラー:0
+
+=== 既存レポートのPrtDevNamesからポート名を読む ===
+driverOffset=8712, deviceOffset=308, portOffset=0
+PrtDevNamesから読んだポート名: []
