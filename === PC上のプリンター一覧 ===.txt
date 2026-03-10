@@ -1,0 +1,21 @@
+=== PC上のプリンター一覧 ===
+  [OneNote (Desktop) (リダイレクト 2)]
+  [RUKEIRE (リダイレクト 2)]
+  [SYUKKO1 (リダイレクト 2)]
+  [Microsoft Print to PDF (リダイレクト 2)]
+  [RSYUKKO1 (リダイレクト 2)]
+  [UKEIRE (リダイレクト 2)]
+  [OneNote (Desktop)]
+  [UKEIRE]
+  [SYUKKO1]
+  [RUKEIRE]
+  [RSYUKKO1]
+  [Microsoft Print to PDF]
+  [\\rprtsv01\契約書印刷用]
+  [\\rprtsv01\LF2プリンター]
+
+=== 最初のレポートのプリンター情報 ===
+レポート名: P_ETCKWE
+Printer.DeviceName: [UKEIRE (リダイレクト 2)]
+PrtDevNames長さ: 29
+PrtDevNames(Null→|): ["4||||||||||||||||||||||協?1]
