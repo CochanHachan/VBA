@@ -1,0 +1,7 @@
+変更前: [UKEIRE (リダイレクト 2)]
+Set Printer 成功
+PrtDevNames書込成功 / 長さ: 
+PrtDevMode長さ: 2682
+PrtDevMode書込成功
+保存直前DeviceName: [Microsoft Print to PDF]
+保存後DeviceName: [UKEIRE (リダイレクト 2)]
