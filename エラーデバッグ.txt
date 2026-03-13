@@ -1,0 +1,17 @@
+================================================================================
+開始: ExportChangeTelNumDept (v5 - ハイブリッド安定版)
+CSV読込: C:\Users\k-matsura\Data\会社統合_結合テスト\M12_kubota-ycheck.mdb\旧組織変更対象部署名.csv
+出力先 : C:\Users\k-matsura\Data\会社統合_結合テスト\M12_kubota-ycheck.mdb\ChangeTelNumDept.csv
+部署名件数: 20
+Searching: 01YAW
+Searching: TMEETANSIN
+Searching: TMEKJGYSHO
+  出力行数: 39
+Searching: TMEKKAISHA
+  出力行数: 4
+Searching: TMESHAIN
+Searching: TMESHOHIN
+Searching: TMESHRIJKG
+Searching: TMESISAN
+  SQL失敗(フォールバック): クエリ式 '[CSISANCD] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CSISANMEI] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CMSIRICD] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CSHOHINCD] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CTANANO] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CSISANKBN] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CSHUTKKBN] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CSHHOUKBN] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CDPTSHKBN] IN (SELECT DeptValue FROM [zzTmpD
+
