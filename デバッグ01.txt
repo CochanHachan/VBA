@@ -1,0 +1,77 @@
+================================================================================
+開始: ExportChangeTelNumDept (v5 - ハイブリッド安定版)
+CSV読込: C:\Users\k-matsura\Data\会社統合_結合テスト\M12_kubota-ycheck.mdb\旧組織変更対象部署名.csv
+出力先 : C:\Users\k-matsura\Data\会社統合_結合テスト\M12_kubota-ycheck.mdb\ChangeTelNumDept.csv
+部署名件数: 20
+Searching: 01YAW
+Searching: TMEETANSIN
+Searching: TMEKJGYSHO
+  出力行数: 39
+Searching: TMEKKAISHA
+  出力行数: 4
+Searching: TMESHAIN
+Searching: TMESHOHIN
+Searching: TMESHRIJKG
+Searching: TMESISAN
+  SQL失敗(フォールバック): クエリ式 '[CSISANCD] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CSISANMEI] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CMSIRICD] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CSHOHINCD] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CTANANO] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CSISANKBN] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CSHUTKKBN] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CSHHOUKBN] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CDPTSHKBN] IN (SELECT DeptValue FROM [zzTmpD
+Searching: TMEYUBINNO
+Searching: TMTABLE_TECHNO
+Searching: TSSYSTEM
+Searching: TTEBAIHK
+  SQL失敗(フォールバック): クエリ式 '[CBAIHKCD] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CGRPCD] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CTANTOCD] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [IBAIBAIKBN] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CKYKUNICD] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CKYKUNIMEI] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CKYKSCD] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CKYKSHAMEI] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CKYJIGYOCD] IN (SELECT DeptValue FROM [zzTmp
+  出力行数: 2304
+Searching: TTEBAISISH
+Searching: TTEKEIYAKU
+  SQL失敗(フォールバック): クエリ式 '[CKEIYAKUNO] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CKEISRICD] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CGRPCD] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CNGRPCD] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CTANTONO] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CNTANTONO] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CYUBINNO] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CKAISHACD] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CKAISHAMEI] IN (SELECT DeptValue FROM [zzTmpDe
+================================================================================
+開始: ExportChangeTelNumDept (v5 - ハイブリッド安定版)
+CSV読込: C:\Users\k-matsura\Data\会社統合_結合テスト\M12_kubota-ycheck.mdb\旧組織変更対象部署名.csv
+出力先 : C:\Users\k-matsura\Data\会社統合_結合テスト\M12_kubota-ycheck.mdb\ChangeTelNumDept.csv
+部署名件数: 20
+Searching: 01YAW
+Searching: TMEETANSIN
+Searching: TMEKJGYSHO
+  出力行数: 39
+Searching: TMEKKAISHA
+  出力行数: 4
+Searching: TMESHAIN
+Searching: TMESHOHIN
+Searching: TMESHRIJKG
+Searching: TMESISAN
+  SQL失敗(フォールバック): クエリ式 '[CSISANCD] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CSISANMEI] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CMSIRICD] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CSHOHINCD] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CTANANO] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CSISANKBN] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CSHUTKKBN] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CSHHOUKBN] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CDPTSHKBN] IN (SELECT DeptValue FROM [zzTmpD
+Searching: TMEYUBINNO
+Searching: TMTABLE_TECHNO
+Searching: TSSYSTEM
+Searching: TTEBAIHK
+  SQL失敗(フォールバック): クエリ式 '[CBAIHKCD] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CGRPCD] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CTANTOCD] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [IBAIBAIKBN] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CKYKUNICD] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CKYKUNIMEI] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CKYKSCD] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CKYKSHAMEI] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CKYJIGYOCD] IN (SELECT DeptValue FROM [zzTmp
+  出力行数: 2304
+Searching: TTEBAISISH
+Searching: TTEKEIYAKU
+  SQL失敗(フォールバック): クエリ式 '[CKEIYAKUNO] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CKEISRICD] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CGRPCD] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CNGRPCD] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CTANTONO] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CNTANTONO] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CYUBINNO] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CKAISHACD] IN (SELECT DeptValue FROM [zzTmpDeptList]) OR [CKAISHAMEI] IN (SELECT DeptValue FROM [zzTmpDe
+================================================================================
+開始: ExportChangeTelNumDept (v5b - インラインIN安定版)
+CSV読込: C:\Users\k-matsura\Data\会社統合_結合テスト\M12_kubota-ycheck.mdb\旧組織変更対象部署名.csv
+出力先 : C:\Users\k-matsura\Data\会社統合_結合テスト\M12_kubota-ycheck.mdb\ChangeTelNumDept.csv
+部署名件数: 20
+Searching: 01YAW
+Searching: TMEETANSIN
+Searching: TMEKJGYSHO
+  SQL失敗(フォールバック): ODBC--呼び出しが失敗しました。
+  VBAフルスキャン実行中...
+  VBAフルスキャン完了: 64958 行処理
+  出力行数: 39
+Searching: TMEKKAISHA
+  出力行数: 4
+Searching: TMESHAIN
+Searching: TMESHOHIN
+Searching: TMESHRIJKG
+Searching: TMESISAN
+Searching: TMEYUBINNO
+Searching: TMTABLE_TECHNO
+Searching: TSSYSTEM
+Searching: TTEBAIHK
+  出力行数: 2304
+Searching: TTEBAISISH
+Searching: TTEKEIYAKU
+  SQL失敗(フォールバック): クエリが複雑すぎます。
+  VBAフルスキャン実行中...
