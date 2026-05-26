@@ -1,0 +1,2 @@
+cd C:\dev\goka_success
+claude
