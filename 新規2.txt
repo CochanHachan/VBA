@@ -1,0 +1,2 @@
+$env:Path = [Environment]::GetEnvironmentVariable("Path","Machine") + ";" + [Environment]::GetEnvironmentVariable("Path","User"); claude
+& "C:\ProgramData\npm-global\claude.cmd"
